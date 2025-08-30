@@ -82,9 +82,3 @@ Launch the app directly in Google Colab:
 - This app generates **synthetic data only**. It does not rely on or fetch from any external or real-world data source.
 - Model caching in Google Drive is optional but recommended for efficiency.
 - Since the app runs in Colab, performance may vary depending on GPU availability.
-
----
-
-## License
-
-This project is licensed under the MIT License.
