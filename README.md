@@ -10,7 +10,7 @@ The app runs on [Gradio](https://gradio.app) in Google Colab and uses the open-s
 
 Launch the app directly in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/synthetic-dataset-generator/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/synthetic-dataset-generator/synthetic-dataset-generator/blob/main/notebook.ipynb)
 
 ---
 
